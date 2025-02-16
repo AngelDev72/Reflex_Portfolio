@@ -3,7 +3,7 @@
 import reflex as rx
 
 from rxconfig import config
-
+from components import navbar
 
 class State(rx.State):
     """The app state."""
